@@ -1,0 +1,4 @@
+2019-11-24 11:31:44 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-24 11:31:44 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-24 11:31:44 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
