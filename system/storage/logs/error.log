@@ -2,3 +2,59 @@
  in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
 2019-11-24 11:31:44 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
 2019-11-24 11:31:44 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:01:19 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:01:19 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:01:19 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:02:52 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:02:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:02:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:03:17 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:03:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:03:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:04:29 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:04:29 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:04:29 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:05:10 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:05:10 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:05:10 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:05:39 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:05:39 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:05:39 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:06:18 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:06:18 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:06:18 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:06:51 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:06:51 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:06:51 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:07:05 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:07:05 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:07:05 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:09:12 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:09:12 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:09:12 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:09:27 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:09:27 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:09:27 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:09:41 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:09:41 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:09:41 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:09:51 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:09:51 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:09:51 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:09:57 - PHP Warning:  mysqli::__construct(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 7
+2019-11-25 2:09:57 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
+2019-11-25 2:09:57 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Xampp\htdocs\opencart\system\library\db\mysqli.php on line 10
